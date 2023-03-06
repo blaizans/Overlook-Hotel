@@ -1,4 +1,4 @@
-# Overlook hotel website and Java app
+# Overlook Hotel HTML/CSS/Bootstrap website and Java app
 ## VIA University College, Software engineering, Semester 1 project
 ### Description
 The Overlook Hotel needs a website and a booking system ( a single computer at the front
