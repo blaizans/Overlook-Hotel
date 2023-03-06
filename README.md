@@ -33,7 +33,7 @@ reservations should be available for the administrator.
 #### Critical priority:
 <div> 
 
-  <a style="color: green">1. As an employee I want to add a booking status to the booking System.<br></a>
+  <p style="color: green">1. As an employee I want to add a booking status to the booking System.<br></a>
 <a style="color: green">2. As an employee, I want to make the checkout for the guest, register the departure date and
 calculate the price.<br></a>
 <a style="color: green">3. As an employee, I want to add the arrival date for the check-in.<br></a>
