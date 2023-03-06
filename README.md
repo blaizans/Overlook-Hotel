@@ -31,21 +31,22 @@ reservations should be available for the administrator.
 
 ### Requirements
 #### Critical priority:
-<a style:"color: green"> 
-1. As an employee I want to add a booking status to the booking System.
-2. As an employee, I want to make the checkout for the guest, register the departure date and
-calculate the price.
-3. As an employee, I want to add the arrival date for the check-in.
-4. As an employee, I want to add Name, home address, phone, date of birth, nationality, room
-number, arrival date, and expected departure in the booking information.
-5. As an employee, I want to search for a booking status.
-6. As an employee, I want to have day by day expected arrivals and departures.
-7. As a Guest, I want to see the general info about the hotel.
-8. As a guest, I want to see the phone number of the hotel.
-9. As a guest, I want to see the available rooms.
-10. As a guest, I want to see all the rooms and their differences.
-11. The website needs to communicate with the desktop application.
-</a>
+<div> 
+
+  <a style:"color: green">1. As an employee I want to add a booking status to the booking System.<br></a>
+<a style:"color: green">2. As an employee, I want to make the checkout for the guest, register the departure date and
+calculate the price.<br></a>
+<a style:"color: green">3. As an employee, I want to add the arrival date for the check-in.<br></a>
+<a style:"color: green">4. As an employee, I want to add Name, home address, phone, date of birth, nationality, room
+number, arrival date, and expected departure in the booking information.<br></a>
+<a style:"color: green">5. As an employee, I want to search for a booking status.<br></a>
+<a style:"color: green">6. As an employee, I want to have day by day expected arrivals and departures.<br></a>
+<a style:"color: green">7. As a Guest, I want to see the general info about the hotel.<br></a>
+<a style:"color: green">8. As a guest, I want to see the phone number of the hotel.<br></a>
+<a style:"color: green">9. As a guest, I want to see the available rooms.<br></a>
+<a style:"color: green">10. As a guest, I want to see all the rooms and their differences.<br></a>
+<a style:"color: green">11. The website needs to communicate with the desktop application.<br></a>
+</div>
 
 #### High priority:
 12. As an employee, I want to see the availables rooms given the price range, time period,
