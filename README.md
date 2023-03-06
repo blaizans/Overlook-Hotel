@@ -61,7 +61,7 @@ special guests etc.)
 check-in before 18:00.
 19. As an employee, I want to add an extra fee to cover the additional cleaning.
 20. As an employee, I want to add extras to the final price(smoking, extra bed)
-21. 21. As an employee, I want to see in which room it is possible to smoke.
+21. As an employee, I want to see in which room it is possible to smoke.
 22. As an employee, I want to update or edit a room booking status (to add or remove other
 guests).
 23. As a guest, I want to have access to the website.
