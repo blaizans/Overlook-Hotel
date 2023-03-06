@@ -31,6 +31,7 @@ reservations should be available for the administrator.
 
 ### Requirements
 #### Critical priority:
+<a style:"color: green"> 
 1. As an employee I want to add a booking status to the booking System.
 2. As an employee, I want to make the checkout for the guest, register the departure date and
 calculate the price.
@@ -44,7 +45,7 @@ number, arrival date, and expected departure in the booking information.
 9. As a guest, I want to see the available rooms.
 10. As a guest, I want to see all the rooms and their differences.
 11. The website needs to communicate with the desktop application.
-
+</a>
 
 #### High priority:
 12. As an employee, I want to see the availables rooms given the price range, time period,
