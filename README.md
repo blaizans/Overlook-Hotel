@@ -1,5 +1,34 @@
 # Overlook hotel website and Java app
 ## VIA University College, Software engineering, Semester 1 project
+### Description
+The Overlook Hotel needs a website and a booking system ( a single computer at the front
+desk with a booking system on it) to handle the room booking.
+The hotel has 5 different room types (suits, basic-rooms, single, double, triple) for a total
+of 42 rooms distributed in 3 floors.
+The process is made in 3 phases: 1 Booking of the room. 2 Check-In. 3 Check-Out.
+and each phase is divided into several sub-phases.
+
+Booking.
+1. -Guest calling the receptionist to make a booking
+2. -Receptionist adding the guest’s information to the booking system (Guest name,
+address, phone, date of birth, nationality, arrival and departure date, expected
+amount of guests, extras)
+
+Check-In.
+1. -A registration form is handed to each member of the group asking for personal
+information (Name, home address, phone, date of birth, nationality, room number,
+arrival date, expected departure)
+2. -An assigned room is given to the guests
+3. -The information taken from the registration form are stored in a file cabinet
+4. 
+Check-Out.
+1. Guests give feedback, return keys and pay for their stay.
+2. Room prices and extras should be shown in the system.
+3. The website should display the availability of the rooms and services and prices.
+There has to be the possibility to create a booking, change the booking, calculate the price
+of the stay. The booking system should display all arrivals and departures on the day, and also all
+reservations should be available for the administrator. 
+
 ### Requirements
 #### Critical priority:
 1. As an employee I want to add a booking status to the booking System.
